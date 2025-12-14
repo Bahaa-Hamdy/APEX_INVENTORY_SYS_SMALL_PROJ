@@ -22,5 +22,6 @@ This project started as a training exercise with **Next Academy**, and now it re
 ---
 
 demo : https://oracleapex.com/ords/r/ftc_apex01/inv-small-project/login?session=111554210315314
+
 user : A2
 password : A2
